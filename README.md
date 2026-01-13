@@ -14,5 +14,4 @@ This project demonstrates a data-driven test automation script. It launches a br
 * **Error Handling:** Includes try/except blocks to catch execution errors and ensure the browser closes properly.
 
 ## Usage
-This script was built to test the login functionality of `the-internet.herokuapp.com`.# selenium-login-automation
-Python script using Selenium WebDriver to automate login validation.
+This script was built to test the login functionality of `the-internet.herokuapp.com`.
